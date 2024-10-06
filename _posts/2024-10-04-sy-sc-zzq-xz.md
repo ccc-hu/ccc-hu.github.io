@@ -20,7 +20,7 @@ categories: jekyll update
 | 水果 | 蓝莓3-6粒，树莓或李子或樱桃1-2粒（根据胚的大小选择）         |
 
 ### 流程
-![裱花](https://ccc-hu.github.io/imges/裱花流程.jpg)
+![裱花](https://ccc-hu.github.io/images/裱花流程.png)
 
 ### 打包
 
