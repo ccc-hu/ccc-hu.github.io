@@ -18,6 +18,8 @@ categories: jekyll update
 ![表格](https://ccc-hu.github.io/images/蛋挞配方.png)
 
 ### 流程
+![表格](https://ccc-hu.github.io/images/蛋挞备料流程图.png)
+![表格](https://ccc-hu.github.io/images/蛋挞出品流程图.png)
 
 ### 蛋挞质量控制内容
 
@@ -63,6 +65,8 @@ categories: jekyll update
 
 
 ### 流程
+![表格](https://ccc-hu.github.io/images/原料麦芬备料.png)
+![表格](https://ccc-hu.github.io/images/麦芬出品流程图.png)
 
 ### 麦芬质量控制内容
 
@@ -98,7 +102,7 @@ categories: jekyll update
 
 ![表格](https://ccc-hu.github.io/images/玛德琳配方.png)
 ### 流程
-
+![表格](https://ccc-hu.github.io/images/玛德琳出品流程图.png)
 ### 玛德琳质量控制
 
 #### 1. 原料准备
@@ -141,7 +145,8 @@ categories: jekyll update
 ![表格](https://ccc-hu.github.io/images/胡萝卜蛋糕配方.png)
 
 ### 流程
-
+![表格](https://ccc-hu.github.io/images/胡萝卜蛋糕备料流程图.png)
+![表格](https://ccc-hu.github.io/images/胡萝卜蛋糕出品流程图.png)
 ### 质量控制
 
 ### 胡萝卜蛋糕质量控制内容
@@ -175,7 +180,8 @@ categories: jekyll update
 ![表格](https://ccc-hu.github.io/images/杏仁挞配方.png)
 
 ### 流程
-
+![表格](https://ccc-hu.github.io/images/杏仁挞备料流程图.png)
+![表格](https://ccc-hu.github.io/images/杏仁挞出品流程图.png)
 ### 杏仁塔质量控制
 
 #### 1. 原料准备
