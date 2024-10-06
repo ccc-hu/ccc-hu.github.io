@@ -65,7 +65,7 @@ categories: jekyll update
 
 
 ### 流程
-![表格](https://ccc-hu.github.io/images/原料麦芬备料.jpg)
+![表格](https://ccc-hu.github.io/images/原味麦芬备料.jpg)
 ![表格](https://ccc-hu.github.io/images/麦芬出品流程图.jpg)
 
 ### 麦芬质量控制内容
